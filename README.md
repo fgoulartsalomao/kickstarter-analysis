@@ -5,7 +5,8 @@ The analysis took into considereation data collected from May,2009 to March,2017
 Considering the objective of performing a Play within the United States, here are some considerations about the data set.
 
 ![](https://github.com/fgoulartsalomao/kickstarter-analysis/blob/main/resources/Outcomes.png)
-![](https://github.com/fgoulartsalomao/kickstarter-analysis/blob/main/resources/parent_categories.png)
+
+![](
 
 1 - A total of 912 observations were considered on this analysis.
 2 - Plays is the largest Parent Category on the data set with 30.02% of the total observations, which proves preferable choice for founding.
